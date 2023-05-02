@@ -9,5 +9,9 @@ edition = "2021"
 name= "appraoch1_1"
 path= "src/appraoch1_1.rs"
 
+#[[bin]]
+#name= "appraoch1_2"
+#path= "src/appraoch1_2.rs"
+
 [dependencies]
 halo2_proofs= "0.1.0"
