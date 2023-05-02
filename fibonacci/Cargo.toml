@@ -13,5 +13,9 @@ path= "src/appraoch1_1.rs"
 #name= "appraoch1_2"
 #path= "src/appraoch1_2.rs"
 
+[[bin]]
+name= "appraoch2"
+path= "src/appraoch2.rs"
+
 [dependencies]
 halo2_proofs= "0.1.0"
