@@ -1,5 +1,6 @@
 fibonacci/target/
 is_zero/target/
+range_check/target/
 # Logs
 logs
 *.log
